@@ -1,6 +1,6 @@
 {
     "title": "",
-    "url": "https://github.com/NeonGeckoCom/skill-mark2-audio-receiver",
+    "url": "https://github.com/NeonDmitry/skill-mark2-audio-receiver_ua_translation",
     "summary": "",
     "short_description": null,
     "description": "This skill enables voice intents for the following audio receiver options on the Mycroft Mark 2 device: - Airplay (via [UxPlay](https://github.com/FDH2/UxPlay)) - [KDE Connect](https://kdeconnect.kde.org/) - Spotify (via [Raspotify](https://dtcooper.github.io/raspotify/)) - Bluetooth It allows you to: - Get the status of any of these services on the Mark 2 - Enable/disable the services - Rename your devices in Airplay/Raspotify - Pair Bluetooth/KDE Connect with other devices Supported in Neon versions after mid-August (TODO: Specific version when it's available) Requires [neon-phal-plugin-audio-receiver](https://github.com/NeonGeckoCom/neon-phal-plugin-audio-receiver), an admin PHAL plugin that handles the portions of the code that require `sudo`.",
@@ -52,7 +52,7 @@
         "Mike",
         "Gray"
     ],
-    "skillname": "skill-mark2-audio-receiver",
-    "authorname": "NeonGeckoCom",
+    "skillname": "skill-mark2-audio-receiver_ua_translation",
+    "authorname": "NeonDmitry",
     "foldername": null
 }
