@@ -1,25 +1,16 @@
 # Changelog
 
-## [0.0.5a3](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/tree/0.0.5a3) (2023-12-19)
+## [0.1.1a1](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/tree/0.1.1a1) (2025-08-18)
 
-[Full Changelog](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/compare/0.0.5a2...0.0.5a3)
+[Full Changelog](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/compare/0.1.0...0.1.1a1)
 
-**Merged pull requests:**
+**Fixed bugs:**
 
-- chore: Update resource tests to support refactored tests [\#18](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/pull/18) ([NeonDaniel](https://github.com/NeonDaniel))
-
-## [0.0.5a2](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/tree/0.0.5a2) (2023-12-19)
-
-[Full Changelog](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/compare/0.0.5a1...0.0.5a2)
-
-## [0.0.5a1](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/tree/0.0.5a1) (2023-11-16)
-
-[Full Changelog](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/compare/0.0.4...0.0.5a1)
+- \[BUG\] device name ignored for Spotify and cannot stream to specific device with multiple devices on the same network [\#15](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/issues/15)
 
 **Merged pull requests:**
 
-- fix: spotify name [\#16](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/pull/16) ([mikejgray](https://github.com/mikejgray))
-- chore: 0.0.4 [\#13](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/pull/13) ([github-actions[bot]](https://github.com/apps/github-actions))
+- feat: ukrainian translation [\#21](https://github.com/NeonGeckoCom/skill-mark2-audio-receiver/pull/21) ([NeonDmitry](https://github.com/NeonDmitry))
 
 
 
